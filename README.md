@@ -1,7 +1,7 @@
 Hi there 👋
 
 
-Im a student at HKIS
+Im a high school student at HKIS
 
 - 🔭 I’m currently working on my own game projects using Unity C#, and other automation projects with python
 - 🌱 I’m currently learning C++
