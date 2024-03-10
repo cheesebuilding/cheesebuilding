@@ -1,3 +1,3 @@
-Name: Micah C
-School: HKIS
+Name: Micah C <br />
+School: HKIS <br />
 Interests: Basketball, Badminton, C++
